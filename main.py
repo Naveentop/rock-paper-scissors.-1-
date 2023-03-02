@@ -46,5 +46,3 @@ else:
     print("you lose.")
   elif computer_choice == user_choice:
     print("It's a draw.")
-  elif user_choice >= 3 or user_choice < 0:
-    print("you type invalid number. You lose.")
